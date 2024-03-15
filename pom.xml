@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechie</groupId>
-	<artifactId>spring-azure-demo</artifactId>
+	<artifactId>thangazure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-azure-demo</name>
+	<name>thangazure</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
